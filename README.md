@@ -2,4 +2,4 @@
 
 Features
 - Interactive mode and Batch Mode
-- Built In Commands Implementation - exit
+- Built In Commands Implementation - exit, cd and path

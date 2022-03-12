@@ -1,4 +1,4 @@
-# Unix-Shell-Implemenetation
+# Unix-Shell-Implementation
 
 Features
 - Interactive mode and Batch Mode
